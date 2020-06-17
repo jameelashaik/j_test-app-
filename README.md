@@ -1,6 +1,5 @@
-# README
-
-complete ruby on rails developer
+Jameela shaik
+complete ruby on rails developer by jameela
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
